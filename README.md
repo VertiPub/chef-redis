@@ -1,3 +1,6 @@
+# This repository has been archived. 
+
+
 # DESCRIPTION:
 
 Installs and configures [Redis](http://redis.io/).
